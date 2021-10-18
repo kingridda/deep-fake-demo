@@ -5,4 +5,6 @@ The demo uses the pretrained model original model.
 
 
 ## References: 
+https://github.com/AliaksandrSiarohin/first-order-model
 
+https://arxiv.org/abs/2003.00196
